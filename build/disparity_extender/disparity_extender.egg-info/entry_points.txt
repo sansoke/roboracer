@@ -1,3 +1,0 @@
-[console_scripts]
-disparity_extender = disparity_extender.disparity_extender_node:main
-

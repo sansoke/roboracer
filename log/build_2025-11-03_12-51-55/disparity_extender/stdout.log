@@ -11,9 +11,10 @@ running build_py
 running install
 running install_lib
 running install_data
+copying package.xml -> /home/jeanho/roboracer_ws/install/disparity_extender/share/disparity_extender
 running install_egg_info
 removing '/home/jeanho/roboracer_ws/install/disparity_extender/lib/python3.8/site-packages/disparity_extender-0.0.1-py3.8.egg-info' (and everything under it)
 Copying ../../build/disparity_extender/disparity_extender.egg-info to /home/jeanho/roboracer_ws/install/disparity_extender/lib/python3.8/site-packages/disparity_extender-0.0.1-py3.8.egg-info
 running install_scripts
-Installing disparity_extender script to /home/jeanho/roboracer_ws/install/disparity_extender/bin
+Installing disparity_extender script to /home/jeanho/roboracer_ws/install/disparity_extender/lib/disparity_extender
 writing list of installed files to '/home/jeanho/roboracer_ws/build/disparity_extender/install.log'

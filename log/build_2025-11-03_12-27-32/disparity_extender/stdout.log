@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/disparity_extender/disparity_extender.egg-info
+writing ../../build/disparity_extender/disparity_extender.egg-info/PKG-INFO
+writing dependency_links to ../../build/disparity_extender/disparity_extender.egg-info/dependency_links.txt
+writing entry points to ../../build/disparity_extender/disparity_extender.egg-info/entry_points.txt
+writing requirements to ../../build/disparity_extender/disparity_extender.egg-info/requires.txt
+writing top-level names to ../../build/disparity_extender/disparity_extender.egg-info/top_level.txt
+writing manifest file '../../build/disparity_extender/disparity_extender.egg-info/SOURCES.txt'
+reading manifest file '../../build/disparity_extender/disparity_extender.egg-info/SOURCES.txt'
+writing manifest file '../../build/disparity_extender/disparity_extender.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jeanho/roboracer_ws/build/disparity_extender/build
+creating /home/jeanho/roboracer_ws/build/disparity_extender/build/lib
+creating /home/jeanho/roboracer_ws/build/disparity_extender/build/lib/disparity_extender
+copying disparity_extender/disparity_extender_node.py -> /home/jeanho/roboracer_ws/build/disparity_extender/build/lib/disparity_extender
+copying disparity_extender/__init__.py -> /home/jeanho/roboracer_ws/build/disparity_extender/build/lib/disparity_extender
+running install
+running install_lib
+creating /home/jeanho/roboracer_ws/install/disparity_extender/lib/python3.8/site-packages/disparity_extender
+copying /home/jeanho/roboracer_ws/build/disparity_extender/build/lib/disparity_extender/disparity_extender_node.py -> /home/jeanho/roboracer_ws/install/disparity_extender/lib/python3.8/site-packages/disparity_extender
+copying /home/jeanho/roboracer_ws/build/disparity_extender/build/lib/disparity_extender/__init__.py -> /home/jeanho/roboracer_ws/install/disparity_extender/lib/python3.8/site-packages/disparity_extender
+byte-compiling /home/jeanho/roboracer_ws/install/disparity_extender/lib/python3.8/site-packages/disparity_extender/disparity_extender_node.py to disparity_extender_node.cpython-38.pyc
+byte-compiling /home/jeanho/roboracer_ws/install/disparity_extender/lib/python3.8/site-packages/disparity_extender/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/jeanho/roboracer_ws/install/disparity_extender/share/ament_index
+creating /home/jeanho/roboracer_ws/install/disparity_extender/share/ament_index/resource_index
+creating /home/jeanho/roboracer_ws/install/disparity_extender/share/ament_index/resource_index/packages
+copying resource/disparity_extender -> /home/jeanho/roboracer_ws/install/disparity_extender/share/ament_index/resource_index/packages
+copying package.xml -> /home/jeanho/roboracer_ws/install/disparity_extender/share/disparity_extender
+creating /home/jeanho/roboracer_ws/install/disparity_extender/share/disparity_extender/launch
+running install_egg_info
+Copying ../../build/disparity_extender/disparity_extender.egg-info to /home/jeanho/roboracer_ws/install/disparity_extender/lib/python3.8/site-packages/disparity_extender-0.0.1-py3.8.egg-info
+running install_scripts
+Installing disparity_extender script to /home/jeanho/roboracer_ws/install/disparity_extender/bin
+writing list of installed files to '/home/jeanho/roboracer_ws/build/disparity_extender/install.log'

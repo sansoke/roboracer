@@ -1,0 +1,21 @@
+[0.353s] Invoking command in '/home/jeanho/roboracer_ws/src/disparity_extender': PYTHONPATH=/home/jeanho/roboracer_ws/build/disparity_extender/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeanho/roboracer_ws/install/disparity_extender/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/disparity_extender build --build-base /home/jeanho/roboracer_ws/build/disparity_extender/build install --record /home/jeanho/roboracer_ws/build/disparity_extender/install.log --single-version-externally-managed install_data
+[0.449s] running egg_info
+[0.450s] writing ../../build/disparity_extender/disparity_extender.egg-info/PKG-INFO
+[0.450s] writing dependency_links to ../../build/disparity_extender/disparity_extender.egg-info/dependency_links.txt
+[0.450s] writing entry points to ../../build/disparity_extender/disparity_extender.egg-info/entry_points.txt
+[0.450s] writing requirements to ../../build/disparity_extender/disparity_extender.egg-info/requires.txt
+[0.450s] writing top-level names to ../../build/disparity_extender/disparity_extender.egg-info/top_level.txt
+[0.466s] reading manifest file '../../build/disparity_extender/disparity_extender.egg-info/SOURCES.txt'
+[0.466s] writing manifest file '../../build/disparity_extender/disparity_extender.egg-info/SOURCES.txt'
+[0.467s] running build
+[0.467s] running build_py
+[0.467s] running install
+[0.467s] running install_lib
+[0.468s] running install_data
+[0.468s] running install_egg_info
+[0.469s] removing '/home/jeanho/roboracer_ws/install/disparity_extender/lib/python3.8/site-packages/disparity_extender-0.0.1-py3.8.egg-info' (and everything under it)
+[0.469s] Copying ../../build/disparity_extender/disparity_extender.egg-info to /home/jeanho/roboracer_ws/install/disparity_extender/lib/python3.8/site-packages/disparity_extender-0.0.1-py3.8.egg-info
+[0.469s] running install_scripts
+[0.479s] Installing disparity_extender script to /home/jeanho/roboracer_ws/install/disparity_extender/bin
+[0.479s] writing list of installed files to '/home/jeanho/roboracer_ws/build/disparity_extender/install.log'
+[0.494s] Invoked command in '/home/jeanho/roboracer_ws/src/disparity_extender' returned '0': PYTHONPATH=/home/jeanho/roboracer_ws/build/disparity_extender/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jeanho/roboracer_ws/install/disparity_extender/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/disparity_extender build --build-base /home/jeanho/roboracer_ws/build/disparity_extender/build install --record /home/jeanho/roboracer_ws/build/disparity_extender/install.log --single-version-externally-managed install_data
